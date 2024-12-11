@@ -1,4 +1,4 @@
-package genericCll;
+package cll.genericCll;
 
 public class GenericCircularLinkedList {
 }
