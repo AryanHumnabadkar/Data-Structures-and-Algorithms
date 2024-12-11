@@ -207,6 +207,7 @@ class CircularLinkedList {
         prev.setNext(curr.getNext());
         return true;
     }
+
 }
 
 class Main {
