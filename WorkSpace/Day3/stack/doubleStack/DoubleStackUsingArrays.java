@@ -1,4 +1,4 @@
-package doubleStack;
+package stack.doubleStack;
 
 public class DoubleStackUsingArrays {
 
